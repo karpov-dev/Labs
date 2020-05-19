@@ -1,0 +1,26 @@
+C:\Users\passa\Desktop\Lab5_graphs\bin\Debug\netcoreapp3.1\lab_5.exe
+C:\Users\passa\Desktop\Lab5_graphs\bin\Debug\netcoreapp3.1\lab_5.deps.json
+C:\Users\passa\Desktop\Lab5_graphs\bin\Debug\netcoreapp3.1\lab_5.runtimeconfig.json
+C:\Users\passa\Desktop\Lab5_graphs\bin\Debug\netcoreapp3.1\lab_5.runtimeconfig.dev.json
+C:\Users\passa\Desktop\Lab5_graphs\bin\Debug\netcoreapp3.1\lab_5.dll
+C:\Users\passa\Desktop\Lab5_graphs\bin\Debug\netcoreapp3.1\lab_5.pdb
+C:\Users\passa\Desktop\Lab5_graphs\obj\Debug\netcoreapp3.1\lab_5.csprojAssemblyReference.cache
+C:\Users\passa\Desktop\Lab5_graphs\obj\Debug\netcoreapp3.1\lab_5.csproj.CoreCompileInputs.cache
+C:\Users\passa\Desktop\Lab5_graphs\obj\Debug\netcoreapp3.1\lab_5.AssemblyInfoInputs.cache
+C:\Users\passa\Desktop\Lab5_graphs\obj\Debug\netcoreapp3.1\lab_5.AssemblyInfo.cs
+C:\Users\passa\Desktop\Lab5_graphs\obj\Debug\netcoreapp3.1\lab_5.dll
+C:\Users\passa\Desktop\Lab5_graphs\obj\Debug\netcoreapp3.1\lab_5.pdb
+C:\Users\passa\Desktop\Lab5_graphs\obj\Debug\netcoreapp3.1\lab_5.genruntimeconfig.cache
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 5\bin\Debug\netcoreapp3.1\lab_5.exe
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 5\bin\Debug\netcoreapp3.1\lab_5.deps.json
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 5\bin\Debug\netcoreapp3.1\lab_5.runtimeconfig.json
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 5\bin\Debug\netcoreapp3.1\lab_5.runtimeconfig.dev.json
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 5\bin\Debug\netcoreapp3.1\lab_5.dll
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 5\bin\Debug\netcoreapp3.1\lab_5.pdb
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 5\obj\Debug\netcoreapp3.1\lab_5.csprojAssemblyReference.cache
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 5\obj\Debug\netcoreapp3.1\lab_5.csproj.CoreCompileInputs.cache
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 5\obj\Debug\netcoreapp3.1\lab_5.AssemblyInfoInputs.cache
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 5\obj\Debug\netcoreapp3.1\lab_5.AssemblyInfo.cs
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 5\obj\Debug\netcoreapp3.1\lab_5.dll
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 5\obj\Debug\netcoreapp3.1\lab_5.pdb
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 5\obj\Debug\netcoreapp3.1\lab_5.genruntimeconfig.cache

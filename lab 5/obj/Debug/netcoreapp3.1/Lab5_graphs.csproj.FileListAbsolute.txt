@@ -1,0 +1,24 @@
+D:\универ\4  сем\алгоритмы и стр данных\Lab5_graphs\bin\Debug\netcoreapp3.1\Lab5_graphs.exe
+D:\универ\4  сем\алгоритмы и стр данных\Lab5_graphs\bin\Debug\netcoreapp3.1\Lab5_graphs.deps.json
+D:\универ\4  сем\алгоритмы и стр данных\Lab5_graphs\bin\Debug\netcoreapp3.1\Lab5_graphs.runtimeconfig.json
+D:\универ\4  сем\алгоритмы и стр данных\Lab5_graphs\bin\Debug\netcoreapp3.1\Lab5_graphs.runtimeconfig.dev.json
+D:\универ\4  сем\алгоритмы и стр данных\Lab5_graphs\bin\Debug\netcoreapp3.1\Lab5_graphs.dll
+D:\универ\4  сем\алгоритмы и стр данных\Lab5_graphs\bin\Debug\netcoreapp3.1\Lab5_graphs.pdb
+D:\универ\4  сем\алгоритмы и стр данных\Lab5_graphs\obj\Debug\netcoreapp3.1\Lab5_graphs.csprojAssemblyReference.cache
+D:\универ\4  сем\алгоритмы и стр данных\Lab5_graphs\obj\Debug\netcoreapp3.1\Lab5_graphs.AssemblyInfoInputs.cache
+D:\универ\4  сем\алгоритмы и стр данных\Lab5_graphs\obj\Debug\netcoreapp3.1\Lab5_graphs.AssemblyInfo.cs
+D:\универ\4  сем\алгоритмы и стр данных\Lab5_graphs\obj\Debug\netcoreapp3.1\Lab5_graphs.dll
+D:\универ\4  сем\алгоритмы и стр данных\Lab5_graphs\obj\Debug\netcoreapp3.1\Lab5_graphs.pdb
+C:\Users\passa\Desktop\Lab5_graphs\bin\Debug\netcoreapp3.1\Lab5_graphs.exe
+C:\Users\passa\Desktop\Lab5_graphs\bin\Debug\netcoreapp3.1\Lab5_graphs.deps.json
+C:\Users\passa\Desktop\Lab5_graphs\bin\Debug\netcoreapp3.1\Lab5_graphs.runtimeconfig.json
+C:\Users\passa\Desktop\Lab5_graphs\bin\Debug\netcoreapp3.1\Lab5_graphs.runtimeconfig.dev.json
+C:\Users\passa\Desktop\Lab5_graphs\bin\Debug\netcoreapp3.1\Lab5_graphs.dll
+C:\Users\passa\Desktop\Lab5_graphs\bin\Debug\netcoreapp3.1\Lab5_graphs.pdb
+C:\Users\passa\Desktop\Lab5_graphs\obj\Debug\netcoreapp3.1\Lab5_graphs.csprojAssemblyReference.cache
+C:\Users\passa\Desktop\Lab5_graphs\obj\Debug\netcoreapp3.1\Lab5_graphs.csproj.CoreCompileInputs.cache
+C:\Users\passa\Desktop\Lab5_graphs\obj\Debug\netcoreapp3.1\Lab5_graphs.AssemblyInfoInputs.cache
+C:\Users\passa\Desktop\Lab5_graphs\obj\Debug\netcoreapp3.1\Lab5_graphs.AssemblyInfo.cs
+C:\Users\passa\Desktop\Lab5_graphs\obj\Debug\netcoreapp3.1\Lab5_graphs.dll
+C:\Users\passa\Desktop\Lab5_graphs\obj\Debug\netcoreapp3.1\Lab5_graphs.pdb
+C:\Users\passa\Desktop\Lab5_graphs\obj\Debug\netcoreapp3.1\Lab5_graphs.genruntimeconfig.cache
