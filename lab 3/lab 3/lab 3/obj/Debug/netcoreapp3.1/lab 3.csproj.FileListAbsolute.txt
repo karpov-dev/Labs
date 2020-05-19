@@ -1,0 +1,13 @@
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 3\lab 3\lab 3\bin\Debug\netcoreapp3.1\lab 3.exe
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 3\lab 3\lab 3\bin\Debug\netcoreapp3.1\lab 3.deps.json
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 3\lab 3\lab 3\bin\Debug\netcoreapp3.1\lab 3.runtimeconfig.json
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 3\lab 3\lab 3\bin\Debug\netcoreapp3.1\lab 3.runtimeconfig.dev.json
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 3\lab 3\lab 3\bin\Debug\netcoreapp3.1\lab 3.dll
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 3\lab 3\lab 3\bin\Debug\netcoreapp3.1\lab 3.pdb
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 3\lab 3\lab 3\obj\Debug\netcoreapp3.1\lab 3.csprojAssemblyReference.cache
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 3\lab 3\lab 3\obj\Debug\netcoreapp3.1\lab 3.csproj.CoreCompileInputs.cache
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 3\lab 3\lab 3\obj\Debug\netcoreapp3.1\lab 3.AssemblyInfoInputs.cache
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 3\lab 3\lab 3\obj\Debug\netcoreapp3.1\lab 3.AssemblyInfo.cs
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 3\lab 3\lab 3\obj\Debug\netcoreapp3.1\lab 3.dll
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 3\lab 3\lab 3\obj\Debug\netcoreapp3.1\lab 3.pdb
+D:\Универ\2 КУРС\4 Семестр\Алгоритмы\lab 3\lab 3\lab 3\obj\Debug\netcoreapp3.1\lab 3.genruntimeconfig.cache
